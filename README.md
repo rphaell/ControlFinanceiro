@@ -83,6 +83,9 @@ Total de Gastos Mensais: Exibe o valor médio mensal de despesas.
 
 ![image](https://github.com/user-attachments/assets/d80ce523-920f-445e-b77b-945692afbf66)
 
+![image](https://github.com/user-attachments/assets/5bf26426-7405-49e6-8615-38ee80b059b9)
+
+
 
 
 
